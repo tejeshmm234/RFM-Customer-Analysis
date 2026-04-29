@@ -194,18 +194,21 @@ Monetary  = SUM(Quantity × UnitPrice) per Customer
 - Average Frequency by Segment
 - Average Monetary by Segment
 - Average Recency by Segment
-![Page 2](Screenshots/page2_Segment Score Analysis_RFM_Analysis.png)
+![Page 2](Screenshots/page2_Segment_Score_Analysis_RFM_Analysis.png)
+
 **Page 3 — Churn Analysis**
 - KPI Cards: Churn Customer Count, Churn Revenue, Churn Segment Count, Revenue by Churn Segments
 - Customer Count by Churn Segments (At Risk, Hibernating, Lost)
 - Revenue by Churn Segments
 - Avg Frequency by Churn Segments
 - Avg Recency by Churn Segments
+![Page 3](Screenshots/page3_Retention_vs_Churn_RFM_Analysis.png)
 
 **Page 4 — Country Analysis**
 - Customer Count by Country (map visual)
 - Top 10 Countries by Customer Count (bar chart)
 - Top 10 Countries by Revenue (bar chart)
+![Page 4](Screenshots/page4_Country_Analysis_RFM_Analysis.png)
 
 ### DAX Measures Created
 
